@@ -14,7 +14,7 @@ Personal projects revolve around the creation of [freely available videos and bo
 
 ## Sponsor my work
 
-[![Sponsor practicalli-john](https://github.com/sponsors/practicalli-john/button)](https://github.com/sponsors/practicalli-john/)
+[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
 
 I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising hundreds of events for the [London Clojurians community](https://londonclojurians.org/)
 
