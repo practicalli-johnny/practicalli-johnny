@@ -9,7 +9,7 @@ Personal projects revolve around the creation of [freely available videos and bo
 <!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=practicalli-john&theme=solarized-dark)](https://git.io/streak-stats)
 
-[![Practicalli-john GitHub statistics](https://github-readme-stats.vercel.app/api?username=practicalli-john&count_private=true?theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Practicalli-john GitHub statistics](https://github-readme-stats.vercel.app/api?username=practicalli-john&count_private=true?theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Sponsor my work
