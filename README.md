@@ -1,8 +1,8 @@
 # Welcome
 
-Currently working with an exciting startup company called [StatsBomb](https://statsbomb.com/careers/) as a [Clojure](https://clojure.org/) developer.
+Currently working with an exciting startup company as a [Clojure](https://clojure.org/) developer.
 
-Personal projects revolve around the creation of [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), to help anyone interested in building with the wonderful Clojure language.
+Personal projects revolve around the creation of [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding anyone interested in building with the wonderful Clojure language.
 
 ## How busy am I ?
 
@@ -27,7 +27,7 @@ Most of my work is now focused on the [Practicalli series of books and videos](h
 <a href="https://youtube.com/c/practicalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 <a href="https://clojurians.zulipchat.com/#narrow/stream/250781-practicalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zulip.svg" alt="" height="30" width="40" /></a>
 <a href="https://clojurians.slack.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/practicalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/practical_li" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
 <a href="https://https://www.linkedin.com/in/jr0cket/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
 </p>
