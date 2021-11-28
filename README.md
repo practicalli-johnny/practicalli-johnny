@@ -1,8 +1,8 @@
 # Welcome
 
-Currently working with an exciting startup company as a [Clojure](https://clojure.org/) developer.
+I am the founder of [Practicalli](https://practical.li) and the main contributor of content and projects.  I am [an experienced engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/).  I am available for hire, contract or perminant, from January 2022.
 
-Personal projects revolve around the creation of [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding anyone interested in building with the wonderful Clojure language.
+Personal projects revolve around the creation of [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
 ## How busy am I ?
 
