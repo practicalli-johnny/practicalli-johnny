@@ -4,6 +4,8 @@ I am the founder of [Practicalli](https://practical.li) and the main contributor
 
 Personal projects revolve around the creation of [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
+I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 11 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, which supports people from under-represented groups start their journey into the software industry. 
+
 ## How busy am I ?
 
 <!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
@@ -15,9 +17,9 @@ Personal projects revolve around the creation of [freely available videos and bo
 
 [![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
 
-I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising hundreds of events for the [London Clojurians community](https://londonclojurians.org/)
+The majority of my work is now focused on the [Practicalli series of books and videos](https://practical.li/) and take an advisory role with several communities 
 
-Most of my work is now focused on the [Practicalli series of books and videos](https://practical.li/).
+Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-john#sponsors) for your continued support
 
 
 ## Contact & Social Media
