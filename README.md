@@ -7,6 +7,8 @@ I am the founder of [Practicalli](https://practical.li), which provides communit
 
 I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 11 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, which supports people from under-represented groups start their journey into the software industry. 
 
+In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) across Britain, in 9 days.
+
 ## How busy am I ?
 
 <!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
