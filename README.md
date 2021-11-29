@@ -3,6 +3,8 @@ I am [a software engineer with a wide range of experiences](https://www.linkedin
 
 I am the founder of [Practicalli](https://practical.li), which provides community resources for learning and applying Clojure (and ClojureScript).  This work is largely done in personal time, with several projects focused on creating [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
+![Practicalli Clojure Book logo](https://raw.githubusercontent.com/practicalli/graphic-design/live/book-covers/practicalli-clojure-book-banner.png)
+
 I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 11 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, which supports people from under-represented groups start their journey into the software industry. 
 
 ## How busy am I ?
