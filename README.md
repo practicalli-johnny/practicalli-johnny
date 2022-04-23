@@ -1,5 +1,5 @@
 # Welcome
-I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), most recently focused on Clojure and Functional Programming.  I have carried out consultancy, training, product development, technical team management, advocacy and support roles during my career.  I am available for hire, contract or perminant, from January 2022 (maybe earlier if you are really keen).
+I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), most recently focused on Clojure and Functional Programming.  I have carried out consultancy, training, product development, technical team management, advocacy and support roles during my career.
 
 I am the founder of [Practicalli](https://practical.li), which provides community resources for learning and applying Clojure (and ClojureScript).  This work is largely done in personal time, with several projects focused on creating [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
