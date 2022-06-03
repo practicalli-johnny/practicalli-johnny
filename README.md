@@ -1,6 +1,8 @@
 # Welcome
 I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), most recently focused on Clojure and Functional Programming.  I have carried out consultancy, training, product development, technical team management, advocacy and support roles during my career.
 
+Working at [Billie.io](https://billie.io) as a Clojure Engineer, supporting the data science teams with tools and services as well as evolving engineering practices and development workflows. 
+
 I am the founder of [Practicalli](https://practical.li), which provides community resources for learning and applying Clojure (and ClojureScript).  This work is largely done in personal time, with several projects focused on creating [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
 [![Practicalli Clojure Book logo](https://raw.githubusercontent.com/practicalli/graphic-design/live/book-covers/practicalli-clojure-book-banner.png)](https://practical.li/)
