@@ -22,7 +22,7 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 
 ## Sponsor my work
 
-[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
+[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
 
 The majority of my work is now focused on the [Practicalli series of books and videos](https://practical.li/) and take an advisory role with several communities 
 
