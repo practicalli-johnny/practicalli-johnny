@@ -16,7 +16,7 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 ## How busy am I ?
 
 <!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=practicalli-john&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=practicalli-john&theme=nightowl)](https://git.io/streak-stats)
 
 ![Practicalli-john GitHub statistics](https://github-readme-stats.vercel.app/api?username=practicalli-john&theme=material-palenight&show_icons=true)
 
