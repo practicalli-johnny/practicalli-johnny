@@ -14,6 +14,10 @@ I have invested time over the last decade to supporting people in the London dev
 
 In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) across Britain in 9 days.
 
+## Recent articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## How busy am I ?
 
 <!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
