@@ -28,10 +28,10 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 <!-- Generate streak: http://github-readme-streak-stats.herokuapp.com/demo/ -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=practicalli-john&theme=nightowl)](https://git.io/streak-stats) -->
 
-[![practicalli-john GitHub statistics](https://github-readme-stats.vercel.app/api?username=practicalli-john&count_private=true&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![practicalli-john GitHub statistics](https://github-readme-stats.vercel.app/api?username=practicalli-john&count_private=true&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![practicalli-john GitHub statistics](https://github-readme-stats-fork-omega.vercel.app/api?username=practicalli-john&count_private=true&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![practicalli-john GitHub statistics](https://github-readme-stats-fork-omega.vercel.app/api?username=practicalli-john&count_private=true&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=practicalli-john&hide=html,css,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fork-omega.vercel.app/api/top-langs/?username=practicalli-john&hide=html,css,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Sponsor my work
