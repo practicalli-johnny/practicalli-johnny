@@ -25,25 +25,15 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 - [Building Emacs 28 on Ubuntu Linux](http://practical.li/blog/posts/build-emacs-28-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
-## How busy am I ?
+## Activity Statistics
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=practicalli-john&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<!-- https://github-profile-summary-cards.vercel.app/demo.html -->
-![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=practicalli-john&theme=monokai)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=practicalli-john&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=practicalli-john&theme=monokai)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=practicalli-john&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=practicalli-john&theme=monokai&utcOffset=8)
-
-<!-- 
-[![practicalli-john GitHub statistics](https://github-readme-stats-fork-omega.vercel.app/api?username=practicalli-john&count_private=true&show_icons=true&theme=material-palenight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![practicalli-john GitHub statistics](https://github-readme-stats-fork-omega.vercel.app/api?username=practicalli-john&count_private=true&show_icons=true&theme=solarized-light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats-fork-omega.vercel.app/api/top-langs/?username=practicalli-john&hide=java,scala,html,css,shell,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+<!-- GitHub Profile Summary Cards from GitHub Workflow -->
+<!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
+[![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Sponsor my work
 
