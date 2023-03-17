@@ -16,3 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://practical.li/blog/feed.xml"
+          max_post_count: 7
+          
