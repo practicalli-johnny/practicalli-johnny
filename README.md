@@ -1,6 +1,8 @@
 # Welcome
 I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), with commercial Clojure experience since 2017 and mostly JVM experience from 1997.  I have carried out consultancy, training, product development, technical team management, advocacy, tech writing and support roles during my career.
 
+[![My Skills](https://skillicons.dev/icons?i=clojure,md,svg,emacs,neovim,postgres,firebase,graphql,docker,github,githubactions,grafana,aws,kubernetes&theme=dark)](https://skillicons.dev)
+
 December 2022 I concluded a role at [Billie.io](https://billie.io) as a Clojure Engineer & Machine Learning Architect, supporting the data science teams with tools and services as well as evolving engineering practices and development workflows. 
 
 [![available-for-hire](https://user-images.githubusercontent.com/250870/205440155-5676444c-f3a5-4f78-9457-7d5b12113172.png)](https://www.linkedin.com/in/jr0cket/)
