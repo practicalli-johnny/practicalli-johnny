@@ -29,6 +29,7 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=practicalli-john&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
+<!-- https://github-profile-summary-cards.vercel.app/demo.html -->
 ![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=practicalli-john&theme=monokai)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=practicalli-john&theme=monokai)
