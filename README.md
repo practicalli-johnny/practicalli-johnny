@@ -31,8 +31,8 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 - [Build and run Clojure with Multi-stage Dockerfile](http://practical.li/blog/posts/build-and-run-clojure-with-multistage-dockerfile/)
 - [Make Clojure development tasks simple and consistent](http://practical.li/blog/posts/make-clojure-tasks-simple-and-consistent/)
 - [ClojureScript workflow with Clojure CLI tools and Figwheel-main](http://practical.li/blog/posts/clojurescript-workflow-with-clojure-cli-tools-and-figwheel-main/)
-- [Building Emacs 28 on Ubuntu Linux](http://practical.li/blog/posts/build-emacs-28-on-ubuntu/)
 - [Adopting FreeDesktop.org XDG standard for development tools](http://practical.li/blog/posts/adopt-FreeDesktop.org-XDG-standard-for-configuration-files/)
+- [Building Emacs 28 on Ubuntu Linux](http://practical.li/blog/posts/build-emacs-28-on-ubuntu/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity Statistics
