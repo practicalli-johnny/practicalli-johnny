@@ -1,4 +1,7 @@
-# Welcome
+# John Stevenson
+
+[![available-for-hire](https://raw.githubusercontent.com/practicalli/graphic-design/live/available-for-hire.svg)](https://www.linkedin.com/in/jr0cket/)
+
 I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), with commercial Clojure experience since 2017 and mostly JVM experience from 1997. Roles I have carried out commercially include: 
 * **_Consultancy_**: analysis, architecture, design & implementation 
 * **_Technicl training_**: products, programming langugages, design principles, software development processes
@@ -12,8 +15,6 @@ I am [a software engineer with a wide range of experiences](https://www.linkedin
 [![My Skills](https://skillicons.dev/icons?i=clojure,md,svg,emacs,neovim,postgres,firebase,graphql,docker,github,githubactions,grafana,aws,kubernetes&theme=dark)](https://skillicons.dev)
 
 My career included companies large (Citi, Salesforce) and small (early to late stage startups), within Fintech and Data Science companies.  The most recent role was at a Berlin based Fintech startup as a Clojure & Machine Learning Platform Architect, supporting the data science teams with tools and services as well as evolving engineering practices and development workflows. 
-
-[![available-for-hire](https://user-images.githubusercontent.com/250870/205440155-5676444c-f3a5-4f78-9457-7d5b12113172.png)](https://www.linkedin.com/in/jr0cket/)
 
 I am the founder of [Practicalli](https://practical.li), which provides community resources for learning and applying Clojure (and ClojureScript).  This work is largely done in personal time, with several projects focused on creating [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
