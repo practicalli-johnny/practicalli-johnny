@@ -5,7 +5,7 @@
 I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), with commercial Clojure experience since 2017 and mostly JVM experience from 1997. Roles I have carried out commercially include: 
 
 * **_Consultancy_**: analysis, architecture, design & implementation 
-* **_tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
+* **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
 * **_Technicl training_**: products, programming langugages, design principles, software development processes
 * **_Engineering practices coach_**: support the adoption of agile and lean practices
 * **_Developer advocacy_** - enabling developers to use products, tools and languages effectively
