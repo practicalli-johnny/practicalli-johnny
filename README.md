@@ -58,12 +58,19 @@ Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [
 
 ## Contact & Social Media
 
-<!-- TODO: Convert to Markdown -->
-<p align="left">
-<a href="https://youtube.com/c/practicalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-<a href="https://clojurians.zulipchat.com/#narrow/stream/250781-practicalli" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zulip.svg" alt="" height="30" width="40" /></a>
-<a href="https://clojurians.slack.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/slack.svg" alt="" height="30" width="40" /></a>
-<a href="https://twitter.com/practical_li" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://https://www.linkedin.com/in/jr0cket/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a> -->
-</p>
+<a href="https://youtube.com/practicalli" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/youtube/crimson" />
+</a>
+<a href="https://clojurians.zulipchat.com/#narrow/stream/250781-practicalli" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/zulip/green" />
+</a>
+<a href="https://clojurians.slack.com/" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/slack/firebrick" />
+</a>
+<a href="https://twitter.com/practical_li" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/twitter/skyblue" />
+</a>  
+<a href="https://https://www.linkedin.com/in/jr0cket/" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/linkedin/slateblue" />
+</a>  
+
