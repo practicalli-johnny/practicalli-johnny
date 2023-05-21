@@ -32,7 +32,7 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 - [Docker: a simple workflow for Clojure](http://practical.li/blog/posts/docker-a-simple-workflow-for-clojure/)
 - [Docker Desktop on Ubuntu Linux](http://practical.li/blog/posts/docker-desktop-on-ubuntu-linux/)
 - [Docker Compose for Clojure Development](http://practical.li/blog/posts/docker-compose-for-clojure-development/)
-- [Practicalli plans for 2023](http://practical.li/blog/posts/practicalli-plans-2023/)
+- [Practicalli future plans](http://practical.li/blog/posts/practicalli-plans-2023/)
 - [Create deps-new templates for Clojure CLI projects](http://practical.li/blog/posts/create-deps-new-template-for-clojure-cli-projects/)
 - [Build Emacs from source on Ubuntu Linux](http://practical.li/blog/posts/build-emacs-from-source-on-ubuntu-linux/)
 <!-- BLOG-POST-LIST:END -->
