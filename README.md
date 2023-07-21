@@ -26,6 +26,15 @@ I have invested time over the last decade to supporting people in the London dev
 
 In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) across Britain in 9 days and raise thousands of pounds for charity.
 
+## Sponsor my work
+
+[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
+
+All sponsorship recieved is used to maintain and further develop the [Practicalli series of books and videos](https://practical.li/), although most of the work is still done with my own time and cost.
+
+Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-john#sponsors) for there continued support.
+
+
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
 - [Accessing AWS with Clojure from scratch - simple approach](http://practical.li/blog/posts/access-aws-with-clojure-from-scratch/)
@@ -46,14 +55,6 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-## Sponsor my work
-
-[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
-
-My community and open source work is focused on the [Practicalli series of books and videos](https://practical.li/) with an advisory role for several technical communities
-
-Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-john#sponsors) for your continued support
 
 
 ## Contact & Social Media
