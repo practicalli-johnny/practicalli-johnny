@@ -2,16 +2,17 @@
 
 [![available-for-hire](https://raw.githubusercontent.com/practicalli/graphic-design/live/available-for-hire.svg)](https://www.linkedin.com/in/jr0cket/)
 
-I am [a software engineer with a wide range of experiences](https://www.linkedin.com/in/jr0cket/), with commercial Clojure experience since 2017 and mostly JVM experience from 1997. Roles I have carried out commercially include: 
+[An engineer with a wide range of commercial and community experiences](https://www.linkedin.com/in/jr0cket/) over the last two and a half decades, with predominantly Clojure experience since 2017. The kinds of roles I have carried out commercially include: 
 
-* **_Consultancy_**: analysis, architecture, design & implementation 
-* **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
-* **_Technicl training_**: products, programming langugages, design principles, software development processes
+* **_Consultancy_**: analysis, architecture, design & implementation embedded with customers
+* **_CTO_**: developing the technical capability of the business   
+* **_Developer advocacy_ & _Community Management_** - enabling developers to use products, tools and languages effectively
 * **_Engineering practices coach_**: support the adoption of agile and lean practices
-* **_Developer advocacy_** - enabling developers to use products, tools and languages effectively
+* **_Product development_**: on a wide range of products and services
 * **_Technical team management_**: mentor, coach and evolve teams effectively
 * **_Tech support team management_**: created support teams, active on support 
-* **_Product development_**: on a very wide range of products and services
+* **_Technicl training_**: products, programming langugages, design principles, software development processes
+* **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
 
 [![My Skills](https://skillicons.dev/icons?i=clojure,md,svg,emacs,neovim,postgres,firebase,graphql,docker,github,githubactions,grafana,aws,kubernetes&theme=dark)](https://skillicons.dev)
 
