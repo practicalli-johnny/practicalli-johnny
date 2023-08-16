@@ -38,13 +38,13 @@ Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
+- [Pin Emacs packages to manage issues](http://practical.li/blog/posts/pin-emacs-package-to-manage-issues/)
 - [Accessing AWS with Clojure from scratch - simple approach](http://practical.li/blog/posts/access-aws-with-clojure-from-scratch/)
-- [Docker Desktop on Ubuntu Linux](http://practical.li/blog/posts/docker-desktop-on-ubuntu-linux/)
 - [Docker: a simple workflow for Clojure](http://practical.li/blog/posts/docker-a-simple-workflow-for-clojure/)
+- [Docker Desktop on Ubuntu Linux](http://practical.li/blog/posts/docker-desktop-on-ubuntu-linux/)
 - [Docker Compose for Clojure Development](http://practical.li/blog/posts/docker-compose-for-clojure-development/)
 - [Practicalli future plans](http://practical.li/blog/posts/practicalli-plans-2023/)
 - [Create deps-new templates for Clojure CLI projects](http://practical.li/blog/posts/create-deps-new-template-for-clojure-cli-projects/)
-- [Build Emacs from source on Ubuntu Linux](http://practical.li/blog/posts/build-emacs-from-source-on-ubuntu-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity Statistics
