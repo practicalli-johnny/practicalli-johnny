@@ -14,7 +14,7 @@
 * **_Technicl training_**: products, programming langugages, design principles, software development processes
 * **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
 
-[![My Skills](https://skillicons.dev/icons?i=clojure,md,svg,emacs,neovim,postgres,firebase,graphql,docker,github,githubactions,grafana,aws,kubernetes&theme=dark)](https://skillicons.dev)
+![Skills & Tools](https://skillicons.dev/icons?i=clojure,md,svg,emacs,neovim,postgres,firebase,graphql,docker,github,githubactions,grafana,aws,kubernetes&theme=dark)
 
 My career includes large organisations (Citi, Salesforce) and early to late stage startups within Fintech and Data Science companies.  Most recently working with a Berlin Fintech startup as a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational engineering practices and devops workflows. 
 
