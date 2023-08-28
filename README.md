@@ -38,13 +38,13 @@ Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
+- [Expose Clojure Service using Ngrok](http://practical.li/blog/posts/expose-local-clojure-service-with-ngrok/)
 - [Pin Emacs packages to manage issues](http://practical.li/blog/posts/pin-emacs-package-to-manage-issues/)
 - [Accessing AWS with Clojure from scratch - simple approach](http://practical.li/blog/posts/access-aws-with-clojure-from-scratch/)
 - [Docker: a simple workflow for Clojure](http://practical.li/blog/posts/docker-a-simple-workflow-for-clojure/)
 - [Docker Desktop on Ubuntu Linux](http://practical.li/blog/posts/docker-desktop-on-ubuntu-linux/)
 - [Docker Compose for Clojure Development](http://practical.li/blog/posts/docker-compose-for-clojure-development/)
 - [Practicalli future plans](http://practical.li/blog/posts/practicalli-plans-2023/)
-- [Create deps-new templates for Clojure CLI projects](http://practical.li/blog/posts/create-deps-new-template-for-clojure-cli-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity Statistics
