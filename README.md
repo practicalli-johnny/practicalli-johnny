@@ -11,7 +11,7 @@
 * **_Product development_**: on a wide range of products and services
 * **_Technical team management_**: mentor, coach and evolve teams effectively
 * **_Tech support team management_**: created support teams, active on support 
-* **_Technicl training_**: products, programming langugages, design principles, software development processes
+* **_Technical training_**: products, programming langugages, design principles, software development processes
 * **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
 
 ![Skills & Tools](https://skillicons.dev/icons?i=clojure,md,svg,emacs,neovim,postgres,firebase,graphql,docker,github,githubactions,grafana,aws,kubernetes&theme=dark)
