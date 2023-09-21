@@ -5,12 +5,12 @@
 [An engineer with a wide range of commercial and community experiences](https://www.linkedin.com/in/jr0cket/) over the last two and a half decades, with predominantly Clojure experience since 2017. The kinds of roles I have carried out commercially include: 
 
 * **_Consultancy_**: analysis, architecture, design & implementation embedded with customers
-* **_CTO_**: developing the technical capability of the business   
+* **_CTO_**: developing the technical capability of the business for early stage startup companies  
 * **_Developer advocacy_ & _Community Management_** - enabling developers to use products, tools and languages effectively
-* **_Engineering practices coach_**: support the adoption of agile and lean practices
-* **_Product development_**: on a wide range of products and services
+* **_Engineering practices coach_**: adoption of agile and lean principles & practices to ingrain an effective process
+* **_Product development_**: on a wide range of products and services across many industries
 * **_Technical team management_**: mentor, coach and evolve teams effectively
-* **_Tech support team management_**: created support teams, active on support 
+* **_Tech support team management_**: created effective support teams & capability, active on support duties 
 * **_Technical training_**: products, programming langugages, design principles, software development processes
 * **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
 
