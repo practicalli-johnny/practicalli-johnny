@@ -49,7 +49,8 @@ Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [
 
 ## Activity Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=practicalli-john&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-fork.vercel.app?user=practicalli-john&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
 
 <!-- GitHub Profile Summary Cards from GitHub Workflow -->
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
