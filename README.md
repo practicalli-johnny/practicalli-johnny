@@ -20,15 +20,15 @@ My career includes large organisations (Citi, Salesforce) and early to late stag
 
 I am the founder of [Practicalli](https://practical.li) which provides community educational resources for software engineering, with a focus on Clojure and common development tooling.  The work is done in personal time and includes [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
-[![Practicalli REPL workflow banner](https://raw.githubusercontent.com/practicalli/graphic-design/live/book-covers/practicalli-clojure-book-banner-light.png#gh-light-mode-only)](https://practical.li/#gh-light-mode-only)
-[![Practicalli REPL workflow banner](https://raw.githubusercontent.com/practicalli/graphic-design/live/book-covers/practicalli-clojure-book-banner-dark.png#gh-dark-mode-only)](https://practical.li/#gh-dark-mode-only)
+[![Practicalli logo and name](https://github.com/practicalli/graphic-design/blob/live/logos/practicalli-logo-name-dark.png?raw=true)](https://practical.li/)
+[![Practicalli Clojure REPL workflow banner](https://github.com/practicalli/graphic-design/blob/live/clojure/clojure-repl-workflow-concept.png?raw=true)](https://practical.li/)
 
-I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising many hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 12 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, which supports people from under-represented groups start their journey into the software industry. 
+I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising many hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 12 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, supporting people from under-represented groups as they start their journey into the software industry. 
 
 In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) across Britain in 9 days and raise thousands of pounds for charity.
 
 
-## Sponsor my work
+## Sponsor Practicalli
 
 [![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
 
