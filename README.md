@@ -1,6 +1,7 @@
-# John Stevenson
-
+# Practicalli
+<!--
 [![available-for-hire](https://raw.githubusercontent.com/practicalli/graphic-design/live/available-for-hire.svg)](https://www.linkedin.com/in/jr0cket/)
+-->
 
 [An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) over the last 25 years. 
 
