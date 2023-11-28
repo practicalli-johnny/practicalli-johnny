@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
