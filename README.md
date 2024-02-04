@@ -40,13 +40,13 @@ Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
-- [Expose Clojure Service using Ngrok](http://practical.li/blog/posts/expose-local-clojure-service-with-ngrok/)
-- [Pin Emacs packages to manage issues](http://practical.li/blog/posts/pin-emacs-package-to-manage-issues/)
-- [Accessing AWS with Clojure from scratch - simple approach](http://practical.li/blog/posts/access-aws-with-clojure-from-scratch/)
-- [Docker: a simple workflow for Clojure](http://practical.li/blog/posts/docker-a-simple-workflow-for-clojure/)
-- [Docker Desktop on Ubuntu Linux](http://practical.li/blog/posts/docker-desktop-on-ubuntu-linux/)
-- [Docker Compose for Clojure Development](http://practical.li/blog/posts/docker-compose-for-clojure-development/)
-- [Practicalli future plans](http://practical.li/blog/posts/practicalli-plans-2023/)
+- [Essential tooling for Clojure development](https://practical.li/blog/2024/01/29/essential-tooling-for-clojure-development/)
+- [Safeguard against Git Commit Spoofing](https://practical.li/blog/2024/01/20/safeguard-against-git-commit-spoofing/)
+- [Build Emacs from source on Debian Linux](https://practical.li/blog/2023/10/21/build-emacs-from-source-on-debian-linux/)
+- [Expose Clojure Service using Ngrok](https://practical.li/blog/2023/08/24/expose-clojure-service-using-ngrok/)
+- [Accessing AWS with Clojure from scratch - simple approach](https://practical.li/blog/2023/05/17/accessing-aws-with-clojure-from-scratch---simple-approach/)
+- [Build and run Clojure with Multi-stage Dockerfile](https://practical.li/blog/2022/10/30/build-and-run-clojure-with-multi-stage-dockerfile/)
+- [FreeDesktop.org XDG standard for Clojure development tools](https://practical.li/blog/2022/05/16/freedesktoporg-xdg-standard-for-clojure-development-tools/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity Statistics
