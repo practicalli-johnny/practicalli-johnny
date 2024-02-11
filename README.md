@@ -31,11 +31,11 @@ In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) acro
 
 ## Sponsor Practicalli
 
-[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
+[![Sponsor practicalli-johnny](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-johnny/)
 
-All sponsorship recieved is used to maintain and further develop the [Practicalli series of books and videos](https://practical.li/), although most of the work is still done with my own time and cost.
+All sponsorship funds are used to support the continued development of [Practicalli series of books and videos](https://practical.li/), although most work is done at personal cost and time.
 
-Thank you to [Cognitect](https://www.cognitect.com/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-john#sponsors) for there continued support.
+Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.br/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-johnny#sponsors) from the Clojure community for your continued support
 
 
 ## Recent articles
