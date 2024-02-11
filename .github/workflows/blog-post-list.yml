@@ -15,6 +15,6 @@ jobs:
       - name: Get RSS Feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://practical.li/blog/feed_rss_created.xml"
+          feed_list: "https://practical.li/feed_rss_created.xml"
           max_post_count: 7
           
