@@ -68,6 +68,9 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 <a href="https://youtube.com/practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/youtube/crimson" />
 </a>
+<a href="https://github.com/orgs/practicalli/discussions" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/github/white" />
+</a>  
 <a href="https://clojurians.zulipchat.com/#narrow/stream/250781-practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/zulip/green" />
 </a>
@@ -76,7 +79,7 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 </a>
 <a href="https://clj.social/@practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/mastodon/skyblue" />
-</a>  
+</a>
 <a href="https://https://www.linkedin.com/in/jr0cket/" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/linkedin/slateblue" />
 </a>  
