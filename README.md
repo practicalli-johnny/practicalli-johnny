@@ -26,7 +26,7 @@ I am the founder of [Practicalli](https://practical.li) which provides community
 [![Practicalli logo and name](https://github.com/practicalli/graphic-design/blob/live/logos/practicalli-logo-name-dark.png?raw=true)](https://practical.li/)
 [![Practicalli Clojure REPL workflow banner](https://github.com/practicalli/graphic-design/blob/live/clojure/clojure-repl-workflow-concept.png?raw=true)](https://practical.li/)
 
-I have invested time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising many hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 12 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, supporting people from under-represented groups as they start their journey into the software industry. 
+I have learned a great deal whilst investing time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising many hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 12 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, supporting people from under-represented groups as they start their journey into the software industry. 
 
 In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) across Britain in 9 days and raise thousands of pounds for charity.
 
@@ -63,7 +63,7 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-## Contact & Social Media
+## Discussions & Social Media
 
 <a href="https://youtube.com/practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/youtube/crimson" />
@@ -74,8 +74,8 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 <a href="https://clojurians.slack.com/" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/slack/firebrick" />
 </a>
-<a href="https://twitter.com/practical_li" target="blank">
-  <img height="64" width="64" src="https://cdn.simpleicons.org/twitter/skyblue" />
+<a href="https://clj.social/@practicalli" target="blank">
+  <img height="64" width="64" src="https://cdn.simpleicons.org/mastodon/skyblue" />
 </a>  
 <a href="https://https://www.linkedin.com/in/jr0cket/" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/linkedin/slateblue" />
