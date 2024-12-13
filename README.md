@@ -17,9 +17,7 @@
 
 ![Skills & Tools](https://skillicons.dev/icons?i=debian,clojure,neovim,emacs,md,svg,git,github,githubactions,postgres,firebase,graphql,docker,grafana,blender&theme=dark)
 
-Currently working for [Griffin](https://griffin.com/) as the Engineering Manager responsible for the Platform Team.  Griffin provides Banking as a Service to a wide range of customers.  Griffin has developed an event driven technical architecture implemented with Clojure, with web applications created with ClojureScript. Clojure Spec is heavily used as part of generative and contract testing.  Griffin are [hiring Engineers](https://griffin.com/careers) to join our talented and collaborative team. 
-
-My career includes large organisations (Citi, Salesforce) and early to late stage startups within Fintech and Data Science companies.  My previous role was with a Berlin Fintech startup as a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists. 
+My working environment has varied between large organisations (Citi, Salesforce) and early stage startups (Fintech and Data Science).  My previous role was with a Berlin Fintech startup as a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists. 
 
 I am the founder of [Practicalli](https://practical.li) which provides community educational resources for software engineering, with a focus on Clojure and common development tooling.  The work is done in personal time and includes [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
