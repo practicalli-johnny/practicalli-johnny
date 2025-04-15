@@ -1,16 +1,14 @@
 # Practicalli
-<!--
 [![available-for-hire](https://raw.githubusercontent.com/practicalli/graphic-design/live/available-for-hire.svg)](https://www.linkedin.com/in/jr0cket/)
--->
 
-[An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) over the last 25 years. 
+[An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) over the last 27 years. 
 
+* **_Leadership_**: engineering management, CTO, and Founder roles developing the technical capability of businessed for early stage startup companies
+* **_Technical team management_**: shape effective teams by evolving ways of working and thinking
 * **_Consultancy_**: analysis, architecture, design & implementation embedded with customers
-* **_CTO_**: developing the technical capability of the business for early stage startup companies  
 * **_Developer advocacy_ & _Community Management_** - enabling developers to use products, tools and languages effectively
 * **_Engineering practices coach_**: adoption of agile and lean principles & practices to ingrain an effective process
 * **_Product development_**: on a wide range of products and services across many industries
-* **_Technical team management_**: mentor, coach and evolve teams effectively
 * **_Tech support team management_**: created effective support teams & capability, active on support duties 
 * **_Technical training_**: products, programming langugages, design principles, software development processes
 * **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
