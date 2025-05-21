@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/practicalli-johnny/practicalli-johnny/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
+```
+
+    
