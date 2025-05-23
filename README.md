@@ -38,13 +38,13 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
+- [Advantages of writing documentation for code](https://practical.li/blog/advantages-of-writing-documentation-for-code/)
 - [Essential tooling for Clojure development](https://practical.li/blog/essential-tooling-for-clojure-development/)
 - [Safeguard against Git Commit Spoofing](https://practical.li/blog/safeguard-against-git-commit-spoofing/)
 - [Build Emacs from source on Debian Linux](https://practical.li/blog/build-emacs-from-source-on-debian-linux/)
 - [Expose Clojure Service using Ngrok](https://practical.li/blog/expose-clojure-service-using-ngrok/)
 - [Pin Emacs packages to manage issues](https://practical.li/blog/pin-emacs-packages-to-manage-issues/)
 - [Accessing AWS with Clojure from scratch - simple approach](https://practical.li/blog/accessing-aws-with-clojure-from-scratch---simple-approach/)
-- [Docker: a simple workflow for Clojure](https://practical.li/blog/docker-a-simple-workflow-for-clojure/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Activity Statistics
