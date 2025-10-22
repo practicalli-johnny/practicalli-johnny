@@ -5,17 +5,22 @@
 
 * **_Leadership_**: engineering management, CTO, and Founder roles developing the technical capability of businessed for early stage startup companies
 * **_Technical team management_**: shape effective teams by evolving ways of working and thinking
+* **_Engineering practices coach_**: adoption of agile and lean principles & practices to ingrain an effective process
 * **_Consultancy_**: analysis, architecture, design & implementation embedded with customers
 * **_Developer advocacy_ & _Community Management_** - enabling developers to use products, tools and languages effectively
-* **_Engineering practices coach_**: adoption of agile and lean principles & practices to ingrain an effective process
 * **_Product development_**: on a wide range of products and services across many industries
 * **_Tech support team management_**: created effective support teams & capability, active on support duties 
 * **_Technical training_**: products, programming langugages, design principles, software development processes
-* **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/)
+* **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/), [Atlassian](https://www.atlassian.com/), [Heroku](https://www.heroku.com/developers/), [Salesforce](https://developer.salesforce.com/), etc.
 
 ![Skills & Tools](https://skillicons.dev/icons?i=debian,clojure,neovim,emacs,md,svg,git,github,githubactions,postgres,firebase,graphql,docker,grafana,blender&theme=dark)
 
-My working environment has varied between large organisations (Citi, Salesforce) and early stage startups (Fintech and Data Science).  My previous role was with a Berlin Fintech startup as a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists. 
+My working experiencs have varied from large organisations (Citi, Salesforce) to early stage startups (Fintech, Data Science, Insurance, UK Government, Biopharmaceutical).  See my [LinkedIn profile for a full career history](https://www.linkedin.com/in/jr0cket/).
+
+<!--
+- UK Fintech: Engineering Manager for the platform team, building a bank with functional programming and immutable data 
+- Berlin Fintech startup: a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists. 
+-->
 
 I am the founder of [Practicalli](https://practical.li) which provides community educational resources for software engineering, with a focus on Clojure and common development tooling.  The work is done in personal time and includes [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
