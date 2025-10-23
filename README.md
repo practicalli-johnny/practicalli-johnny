@@ -1,7 +1,7 @@
 # Practicalli
 [![available-for-hire](https://raw.githubusercontent.com/practicalli/graphic-design/live/available-for-hire.svg)](https://www.linkedin.com/in/jr0cket/)
 
-[An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) over the last 27 years. 
+[An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) across multiple industries and companies small & large. 
 
 * **_Leadership_**: engineering management and technical founder roles, aligning technical strategy & delivery with business goals
 * **_Technical team management_**: shape effective teams by evolving ways of working and thinking
