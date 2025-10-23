@@ -3,7 +3,7 @@
 
 [An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) over the last 27 years. 
 
-* **_Leadership_**: engineering management, CTO, and Founder roles developing the technical capability of businessed for early stage startup companies
+* **_Leadership_**: engineering management and technical founder roles, aligning technical strategy & delivery with business goals
 * **_Technical team management_**: shape effective teams by evolving ways of working and thinking
 * **_Engineering practices coach_**: adoption of agile and lean principles & practices to ingrain an effective process
 * **_Consultancy_**: analysis, architecture, design & implementation embedded with customers
