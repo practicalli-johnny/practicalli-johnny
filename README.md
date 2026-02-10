@@ -75,13 +75,7 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 <a href="https://clojurians.zulipchat.com/#narrow/stream/250781-practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/zulip/green" />
 </a>
-<a href="https://clojurians.slack.com/" target="blank">
-  <img height="64" width="64" src="https://cdn.simpleicons.org/slack/firebrick" />
-</a>
 <a href="https://clj.social/@practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/mastodon/skyblue" />
 </a>
-<a href="https://https://www.linkedin.com/in/jr0cket/" target="blank">
-  <img height="64" width="64" src="https://cdn.simpleicons.org/linkedin/slateblue" />
-</a>  
 
