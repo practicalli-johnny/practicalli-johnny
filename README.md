@@ -3,6 +3,8 @@
 
 [An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) across multiple industries and companies small & large. 
 
+My working experiencs have varied from large organisations (Citi, Salesforce) to early stage startups (Fintech, Data Science, Insurance, UK Government, Biopharmaceutical).  See my [LinkedIn profile for a full career history](https://www.linkedin.com/in/jr0cket/).
+
 * **_Leadership_**: engineering management and technical founder roles, aligning technical strategy & delivery with business goals
 * **_Technical team management_**: shape effective teams by evolving ways of working and thinking
 * **_Engineering practices coach_**: adoption of agile and lean principles & practices to ingrain an effective process
@@ -13,14 +15,16 @@
 * **_Technical training_**: products, programming langugages, design principles, software development processes
 * **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/), [Atlassian](https://www.atlassian.com/), [Heroku](https://www.heroku.com/developers/), [Salesforce](https://developer.salesforce.com/), etc.
 
-![Skills & Tools](https://skillicons.dev/icons?i=debian,clojure,neovim,emacs,md,svg,git,github,githubactions,postgres,firebase,graphql,docker,grafana,blender&theme=dark)
+---
 
-My working experiencs have varied from large organisations (Citi, Salesforce) to early stage startups (Fintech, Data Science, Insurance, UK Government, Biopharmaceutical).  See my [LinkedIn profile for a full career history](https://www.linkedin.com/in/jr0cket/).
+![Skills & Tools](https://skillicons.dev/icons?i=debian,clojure,neovim,emacs,md,svg,git,github,githubactions,postgres,firebase,graphql,docker,grafana,blender&theme=dark)
 
 <!--
 - UK Fintech: Engineering Manager for the platform team, building a bank with functional programming and immutable data 
 - Berlin Fintech startup: a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists. 
 -->
+
+---
 
 I am the founder of [Practicalli](https://practical.li) which provides community educational resources for software engineering, with a focus on Clojure and common development tooling.  The work is done in personal time and includes [freely available videos and books on Clojure and ClojureScript development](https://practical.li/), guiding those interested in building services with the powerful, elegant and fun Clojure language.
 
@@ -40,6 +44,7 @@ All sponsorship funds are used to support the continued development of [Practica
 
 Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.br/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-johnny#sponsors) from the Clojure community for your continued support
 
+---
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
@@ -52,10 +57,13 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 - [Accessing AWS with Clojure from scratch - simple approach](https://practical.li/blog/accessing-aws-with-clojure-from-scratch---simple-approach/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ## Activity Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats-fork.vercel.app?user=practicalli-johnny&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
+---
 
 <!-- GitHub Profile Summary Cards from GitHub Workflow -->
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
@@ -63,6 +71,7 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+---
 
 ## Discussions & Social Media
 
