@@ -1,6 +1,7 @@
 # Unreleased
 
 - ci(summary-cards): 🔧 set dark theme, use ubuntu-slim
+- ci(summary-cards): ⬆️ update actions/checkout@7
 
 
 # 2024-02-11
