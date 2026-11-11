@@ -48,13 +48,13 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ## Recent articles
 <!-- BLOG-POST-LIST:START -->
-- [Advantages of writing documentation for code](https://practical.li/blog/advantages-of-writing-documentation-for-code/)
-- [Essential tooling for Clojure development](https://practical.li/blog/essential-tooling-for-clojure-development/)
-- [Safeguard against Git Commit Spoofing](https://practical.li/blog/safeguard-against-git-commit-spoofing/)
-- [Build Emacs from source on Debian Linux](https://practical.li/blog/build-emacs-from-source-on-debian-linux/)
-- [Expose Clojure Service using Ngrok](https://practical.li/blog/expose-clojure-service-using-ngrok/)
-- [Pin Emacs packages to manage issues](https://practical.li/blog/pin-emacs-packages-to-manage-issues/)
-- [Accessing AWS with Clojure from scratch - simple approach](https://practical.li/blog/accessing-aws-with-clojure-from-scratch---simple-approach/)
+- [Accessing AWS with Clojure from scratch - simple approach](https://practical.li/blog/2023/05/17/accessing-aws-with-clojure-from-scratch---simple-approach/)
+- [FreeDesktop.org XDG standard for Clojure development tools](https://practical.li/blog/2022/05/16/freedesktoporg-xdg-standard-for-clojure-development-tools/)
+- [Advent Of Parens 2019 - feast on Clojure this holiday season](https://practical.li/blog/2019/12/01/advent-of-parens-2019---feast-on-clojure-this-holiday-season/)
+- [Automate Cryogen Clojure blog with GitHub Actions](https://practical.li/blog/2021/08/28/automate-cryogen-clojure-blog-with-github-actions/)
+- [Build and run Clojure with Multi-stage Dockerfile](https://practical.li/blog/2022/10/30/build-and-run-clojure-with-multi-stage-dockerfile/)
+- [Building Emacs 28 on Ubuntu Linux](https://practical.li/blog/2022/05/16/building-emacs-28-on-ubuntu-linux/)
+- [Build Emacs from source on Debian Linux](https://practical.li/blog/2023/10/21/build-emacs-from-source-on-debian-linux/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
