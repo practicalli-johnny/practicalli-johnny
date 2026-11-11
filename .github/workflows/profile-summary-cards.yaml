@@ -7,21 +7,23 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
+    runs-on: ubuntu-slim
+    name: github-profile-summary-cards
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
+        env: # create an Actions personal access token called `SUMMARY_CARDS_TOKEN`
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           # BRANCH_NAME is optional, default to main, branch name to push cards
           BRANCH_NAME: "main"
+          # THEME to generate only specified theme, default `""` generates every theme
+          THEME: "dark"
           # UTC_OFFSET is optional, default to zero
-          UTC_OFFSET: 1
+          # UTC_OFFSET: 1
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
           EXCLUDE: "JavaScript,CSS,Java,Makefile,HTML,C++"
