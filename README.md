@@ -1,7 +1,7 @@
 # Practicalli
 [![available-for-hire](https://raw.githubusercontent.com/practicalli/graphic-design/live/available-for-hire.svg)](https://www.linkedin.com/in/jr0cket/)
 
-[An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) across multiple industries and companies small & large. 
+[An engineer with a wide range of commercial & community experiences](https://www.linkedin.com/in/jr0cket/) across multiple industries and companies small & large.
 
 My working experiencs have varied from large organisations (Citi, Salesforce) to early stage startups (Fintech, Data Science, Insurance, UK Government, Biopharmaceutical).  See my [LinkedIn profile for a full career history](https://www.linkedin.com/in/jr0cket/).
 
@@ -11,7 +11,7 @@ My working experiencs have varied from large organisations (Citi, Salesforce) to
 * **_Consultancy_**: analysis, architecture, design & implementation embedded with customers
 * **_Developer advocacy_ & _Community Management_** - enabling developers to use products, tools and languages effectively
 * **_Product development_**: on a wide range of products and services across many industries
-* **_Tech support team management_**: created effective support teams & capability, active on support duties 
+* **_Tech support team management_**: created effective support teams & capability, active on support duties
 * **_Technical training_**: products, programming langugages, design principles, software development processes
 * **_Tech writing_**: commercially for technical & non-tech audiences and Open Source projects, e.g. [Practical.li](https://practical.li/), [Atlassian](https://www.atlassian.com/), [Heroku](https://www.heroku.com/developers/), [Salesforce](https://developer.salesforce.com/), etc.
 
@@ -20,8 +20,8 @@ My working experiencs have varied from large organisations (Citi, Salesforce) to
 ![Skills & Tools](https://skillicons.dev/icons?i=debian,clojure,neovim,emacs,md,svg,git,github,githubactions,postgres,firebase,graphql,docker,grafana,blender&theme=dark)
 
 <!--
-- UK Fintech: Engineering Manager for the platform team, building a bank with functional programming and immutable data 
-- Berlin Fintech startup: a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists. 
+- UK Fintech: Engineering Manager for the platform team, building a bank with functional programming and immutable data
+- Berlin Fintech startup: a Machine Learning Platform Architect, developing data transformation services as well as evolving organisational and engineering practices for engineers and data scientists.
 -->
 
 ---
@@ -31,7 +31,7 @@ I am the founder of [Practicalli](https://practical.li) which provides community
 [![Practicalli logo and name](https://github.com/practicalli/graphic-design/blob/live/logos/practicalli-logo-name-dark.png?raw=true)](https://practical.li/)
 [![Practicalli Clojure REPL workflow banner](https://github.com/practicalli/graphic-design/blob/live/clojure/clojure-repl-workflow-concept.png?raw=true)](https://practical.li/)
 
-I have learned a great deal whilst investing time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising many hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 12 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, supporting people from under-represented groups as they start their journey into the software industry. 
+I have learned a great deal whilst investing time over the last decade to supporting people in the London developer community as well as many online communities.  I have had the pleasure of organising many hundreds of events for the [London Clojurians community](https://londonclojurians.org/).  I've also helped run 12 [ClojureBridge London](https://clojurebridgelondon.github.io/) events, supporting people from under-represented groups as they start their journey into the software industry.
 
 In my spare time I love to cycle and in 2019 I cycled 1,000 miles (1,600km) across Britain in 9 days and raise thousands of pounds for charity.
 
@@ -65,11 +65,28 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ---
 
+
 <!-- GitHub Profile Summary Cards from GitHub Workflow -->
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
-[![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-john/practicalli-john/main/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+Practicalli-Johnny user account:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=practicalli-johnny&theme=city_lights&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=practicalli-johnny&theme=city_lights&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=practicalli-johnny&theme=city_lights&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=practicalli-johnny&theme=city_lights&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=practicalli-johnny&theme=city_lights&animation=fade&utcOffset=0)
+
+
+
+Practicalli Org:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=practicalli&theme=city_lights&animation=fade)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=practicalli&theme=city_lights&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=practicalli&theme=city_lights&animation=fade)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=practicalli&theme=city_lights&animation=fade)
+
 
 ---
 
@@ -80,11 +97,10 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 </a>
 <a href="https://github.com/orgs/practicalli/discussions" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/github/white" />
-</a>  
+</a>
 <a href="https://clojurians.zulipchat.com/#narrow/stream/250781-practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/zulip/green" />
 </a>
 <a href="https://clj.social/@practicalli" target="blank">
   <img height="64" width="64" src="https://cdn.simpleicons.org/mastodon/skyblue" />
 </a>
-
