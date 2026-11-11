@@ -1,0 +1,21 @@
+---
+name: Latest Personal Journal Links
+on:
+  schedule:              # Run workflow automatically
+    - cron: '0 4 * * *'  # at 04:00:00 ever day
+  workflow_dispatch:     # Run manually via GitHub Actions Workflow page
+
+jobs:
+  update-readme-with-blog:
+    name: Update Journal Links
+    runs-on: ubuntu-slim
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Get RSS Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "PRACTICALLI_JOURNAL"
+          commit_message: "docs(readme): 🔗 update practicalli journal post links"
+          feed_list: "https://practical.li/journal/feed_rss_created.xml"
+          max_post_count: 4

@@ -59,6 +59,12 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ---
 
+## Personal Journal
+<!-- PRACTICALLI_JOURNAL:START -->
+<!-- PRACTICALLI_JOURNAL:END -->
+
+---
+
 ## Activity Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats-fork.vercel.app?user=practicalli-johnny&theme=transparent&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
