@@ -61,6 +61,10 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ## Personal Journal
 <!-- PRACTICALLI_JOURNAL:START -->
+- [Monthly library updates](https://practical.li/journal/2023/12/01/monthly-library-updates/)
+- [Running walking coughing](https://practical.li/journal/2023/12/02/running-walking-coughing/)
+- [How much root cause analysis to do?](https://practical.li/journal/2023/12/03/how-much-root-cause-analysis-to-do/)
+- [First day at the new company](https://practical.li/journal/2023/12/04/first-day-at-the-new-company/)
 <!-- PRACTICALLI_JOURNAL:END -->
 
 ---
