@@ -69,20 +69,17 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 <!-- GitHub Profile Summary Cards from GitHub Workflow -->
 <!-- https://github.com/vn7n24fzkq/github-profile-summary-cards -->
 
-Practicalli-Johnny user account:
+Practicalli-Johnny user account (via GitHub workflow):
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=practicalli-johnny&theme=city_lights&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=practicalli-johnny&theme=city_lights&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=practicalli-johnny&theme=city_lights&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=practicalli-johnny&theme=city_lights&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=practicalli-johnny&theme=city_lights&animation=fade&utcOffset=0)
+[![](https://raw.githubusercontent.com/practicalli-johnny/practicalli-johnny/main/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/practicalli-johnny/practicalli-johnny/main/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-johnny/practicalli-johnny/main/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/practicalli-johnny/practicalli-johnny/main/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/practicalli-johnny/practicalli-johnny/main/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 
-Practicalli Org:
+Practicalli Org (Vercel app API):
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=practicalli&theme=city_lights&animation=fade)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=practicalli&theme=city_lights&animation=fade)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=practicalli&theme=city_lights&animation=fade)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=practicalli&theme=city_lights&animation=fade)
