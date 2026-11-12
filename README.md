@@ -61,10 +61,10 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ## Personal Journal
 <!-- PRACTICALLI_JOURNAL:START -->
-- [Monthly library updates](https://practical.li/journal/2023/12/01/monthly-library-updates/)
-- [Running walking coughing](https://practical.li/journal/2023/12/02/running-walking-coughing/)
-- [How much root cause analysis to do?](https://practical.li/journal/2023/12/03/how-much-root-cause-analysis-to-do/)
-- [First day at the new company](https://practical.li/journal/2023/12/04/first-day-at-the-new-company/)
+- [Community Update August 2020 2nd Half](https://practical.li/journal/2020/08/31/community-update-august-2020-2nd-half/)
+- [Community Update August July 1st Half](https://practical.li/journal/2020/07/15/community-update-august-july-1st-half/)
+- [Community Update August July 2nd Half](https://practical.li/journal/2020/07/31/community-update-august-july-2nd-half/)
+- [Community Update August June 1st Half](https://practical.li/journal/2020/06/15/community-update-august-june-1st-half/)
 <!-- PRACTICALLI_JOURNAL:END -->
 
 ---
