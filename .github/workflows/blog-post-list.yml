@@ -7,14 +7,22 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update README with latest blog posts
     runs-on: ubuntu-slim
     steps:
-      - name: Checkout
-        uses: actions/checkout@v7
+      - run: echo "🚀 Job automatically triggered by ${{ github.event_name }}"
+      - run: echo "🐧 Job running on ${{ runner.os }} server"
+      - run: echo "🐙 Using ${{ github.ref }} branch from ${{ github.repository }} repository"
+
+      - uses: actions/checkout@v7
+      - run: echo "🐙 ${{ github.repository }} repository checkout to the CI runner, default depth=1"
+
       - name: Get RSS Feed
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           commit_message: "docs(readme): 🔗 update practicalli blog post links"
           feed_list: "https://practical.li/feed_rss_created.xml"
           max_post_count: 7
+
+      # Summary
+      - run: echo "🍏 Job status is ${{ job.status }}."

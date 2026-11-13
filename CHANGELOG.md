@@ -5,6 +5,7 @@
 - docs(readme): ✏️ use local cards for user account, vercel for org
 - ci(blog-posts): 🔧 add personal journal links workflow
 - ci(blog-posts): 🔧 update blog links workflow platform and action version
+- ci(feed): 🔧 add standard practicalli meta data to github workflows
 
 
 
