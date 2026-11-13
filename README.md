@@ -61,10 +61,10 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ## Personal Journal
 <!-- PRACTICALLI_JOURNAL:START -->
-- [Community Update August 2020 2nd Half](https://practical.li/journal/2020/08/31/community-update-august-2020-2nd-half/)
-- [Community Update August July 1st Half](https://practical.li/journal/2020/07/15/community-update-august-july-1st-half/)
-- [Community Update August July 2nd Half](https://practical.li/journal/2020/07/31/community-update-august-july-2nd-half/)
-- [Community Update August June 1st Half](https://practical.li/journal/2020/06/15/community-update-august-june-1st-half/)
+- [Its cold outside](https://practical.li/journal/2026/11/09/its-cold-outside/)
+- [Applying for Engineering Manager roles](https://practical.li/journal/2026/11/02/applying-for-engineering-manager-roles/)
+- [Back to GMT time](https://practical.li/journal/2026/10/26/back-to-gmt-time/)
+- [Working like a boss](https://practical.li/journal/2026/10/19/working-like-a-boss/)
 <!-- PRACTICALLI_JOURNAL:END -->
 
 ---
