@@ -61,10 +61,10 @@ Thanks to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.b
 
 ## Personal Journal
 <!-- PRACTICALLI_JOURNAL:START -->
+- [Scripting efficiency](https://practical.li/journal/2026/11/23/scripting-efficiency/)
 - [Polar Vortex reversal](https://practical.li/journal/2026/11/16/polar-vortex-reversal/)
 - [Its cold outside](https://practical.li/journal/2026/11/09/its-cold-outside/)
 - [Applying for Engineering Manager roles](https://practical.li/journal/2026/11/02/applying-for-engineering-manager-roles/)
-- [Back to GMT time](https://practical.li/journal/2026/10/26/back-to-gmt-time/)
 <!-- PRACTICALLI_JOURNAL:END -->
 
 ---
